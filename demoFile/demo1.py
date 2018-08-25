@@ -18,5 +18,5 @@ sess = tf.Session()
 print(sess.run(t0))
 print(sess.run(t1))
 print(sess.run(t2))
-print(sess.run(t2))
-print(sess.run(t2))
+print(sess.run(t3))
+
